@@ -1,7 +1,7 @@
 {
 	"hr_mean": "Mean HR (beats/min)",
 	"hr_min": "Min HR (beats/min)",
-	"hr_max": "Maximum Heart Rate (bpm)",
+	"hr_max": "Max HR (beats/min)",
 	"nn_mean": "Mean RR  (ms)",
 	"sdnn": "STD RR (ms)",
 	"sdnn_index": "SDNN index (ms)",
